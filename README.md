@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Aditeya J Frankur</h1>
 <h3 align="center">A passionate developer exploring various domains of programming.</h3>
 
-- Presently working on [Skylarks](https://github.com/aditeya24/skylarks)
+- Presently working on [Skylarks](https://github.com/aditeya24/skylarks), a fully Autonomous Payload Delivery Drone
 
 - Currently learning **ROS, DSA and Java**
 
